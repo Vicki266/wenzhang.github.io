@@ -1,5 +1,3 @@
-# gogo Wen Zhang
+# Welcome to gogo Wen Zhang's page!
 
-- Hi My github page!
-- First page.
-
+[An Introduction to Statitical Learning](https://github.com/gogowenzhang/ISLR_notes_python)
