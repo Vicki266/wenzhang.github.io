@@ -1,3 +1,3 @@
-# wenzhang.github.io
+# gogowenzhang.github.io
 
 Try to open up a github page.
